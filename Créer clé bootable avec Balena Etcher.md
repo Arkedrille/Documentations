@@ -4,6 +4,7 @@ Pour installer un OS sur un poste physique il faudra utiliser une clé bootable.
 
 
 
+
 ## Prérequis
 
 Télécharger [Balena Etcher](https://www.balena.io/etcher/) puis valider le programme d'installation
@@ -13,6 +14,7 @@ Télécharger [Balena Etcher](https://www.balena.io/etcher/) puis valider le pro
 Télécharger également l'ISO de l'OS à installer (ici [Ubuntu Serveur 20.04.1 LTS](https://ubuntu.com/download/server))
 
 Il faudra également une clé usb d'environ 4Go (8Go au mieux)
+
 
 
 
