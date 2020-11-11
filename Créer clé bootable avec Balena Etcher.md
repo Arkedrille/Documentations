@@ -8,7 +8,7 @@ Pour installer un OS sur un poste physique il faudra utiliser une clé bootable.
 
 Télécharger [Balena Etcher](https://www.balena.io/etcher/) puis valider le programme d'installation
 
-![image-20201111150321246](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111150321246.png)
+![](https://github.com/Arkedrille/Documentations/blob/main/assets/images-Cr%C3%A9er%20une%20cl%C3%A9%20bootable%20avec%20Balena%20Etcher/img_01_etcher.png)
 
 Télécharger également l'ISO de l'OS à installer (ici [Ubuntu Serveur 20.04.1 LTS](https://ubuntu.com/download/server))
 
@@ -20,18 +20,18 @@ Il faudra également une clé usb d'environ 4Go (8Go au mieux)
 
 Exécuter Balena Etcher puis cliquer sur **Select image**, sélectionner l"ISO fraîchement téléchargé, finalement cliquer sur **Ouvrir**
 
-![image-20201111151342300](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111151342300.png)
+![](https://github.com/Arkedrille/Documentations/blob/main/assets/images-Cr%C3%A9er%20une%20cl%C3%A9%20bootable%20avec%20Balena%20Etcher/img_02_etcher.png)
 
 Cliquer sur **Change** sous l'icône de disque dur si la clé sélectionnée n'est pas la bonne puis cliquer sur **Continue**
 
-![image-20201111151454355](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111151454355.png)
+![](https://github.com/Arkedrille/Documentations/blob/main/assets/images-Cr%C3%A9er%20une%20cl%C3%A9%20bootable%20avec%20Balena%20Etcher/img_03_etcher.png)
 
 Cliquer sur **Flash** et valider l'autorisation Windows
 
-![image-20201111151609936](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111151609936.png)
+![](https://github.com/Arkedrille/Documentations/blob/main/assets/images-Cr%C3%A9er%20une%20cl%C3%A9%20bootable%20avec%20Balena%20Etcher/img_04_etcher.png)
 
 Une fois fini, Balena Etcher montre cette fenêtre
 
-![image-20201111151727854](C:\Users\Arkedrille\AppData\Roaming\Typora\typora-user-images\image-20201111151727854.png)
+![](https://github.com/Arkedrille/Documentations/blob/main/assets/images-Cr%C3%A9er%20une%20cl%C3%A9%20bootable%20avec%20Balena%20Etcher/img_05_etcher.png)
 
 La clé bootable est prête, il ne reste plus qu'à la brancher sur le poste et redémarrer l'ordinateur en donnant la priorité de boot sur la clé
