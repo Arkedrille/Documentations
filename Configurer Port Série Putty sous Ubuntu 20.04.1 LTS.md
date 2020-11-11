@@ -1,4 +1,8 @@
-# Port Série Putty
+# Configurer Port Série Putty sous Ubuntu 20.04.1 LTS
+
+
+
+## Dans le terminal
 
 **Commande**
 
@@ -76,5 +80,7 @@ dmesg | grep 'ttyUSB'
 
 
 
-[^Putty]: Sélectionner Serial et dans le champ "Serial Line", renseigner 'ttyUSB0' et dans "Speed" renseigner la vitesse de votre switch
+## Note
+
+Sous Putty : sélectionner Serial et dans le champ "Serial Line", renseigner 'ttyUSB0' et dans "Speed" renseigner la vitesse de votre switch
 
