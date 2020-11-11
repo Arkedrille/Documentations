@@ -1,5 +1,7 @@
 # Port Série Putty
 
+## Dans le terminal
+
 **Commande**
 
 ```bash
@@ -74,7 +76,7 @@ dmesg | grep 'ttyUSB'
 [  353.431623] usb 2-3: pl2303 converter now attached to ttyUSB0
 ```
 
+## Putty
 
-
-[^Putty]: Sélectionner Serial et dans le champ "Serial Line", renseigner 'ttyUSB0' et dans "Speed" renseigner la vitesse de votre switch
+Sélectionner Serial et dans le champ **Serial Line**, renseigner 'ttyUSB0' et dans **Speed** renseigner la vitesse de votre switch
 
