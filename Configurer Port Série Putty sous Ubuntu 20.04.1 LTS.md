@@ -4,7 +4,6 @@
 
 ## Dans le terminal
 
-## Dans le terminal
 
 **Commande**
 

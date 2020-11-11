@@ -4,6 +4,7 @@ Pour installer un OS sur un poste physique il faudra utiliser une clé bootable.
 
 
 
+
 ## Prérequis
 
 Télécharger [Balena Etcher](https://www.balena.io/etcher/) puis valider le programme d'installation
@@ -16,7 +17,8 @@ Il faudra également une clé usb d'environ 4Go (8Go au mieux)
 
 
 
-**Création de la clé bootable**
+
+## Création de la clé bootable
 
 Exécuter Balena Etcher puis cliquer sur **Select image**, sélectionner l"ISO fraîchement téléchargé, finalement cliquer sur **Ouvrir**
 
