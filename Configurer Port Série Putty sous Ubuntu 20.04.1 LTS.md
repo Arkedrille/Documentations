@@ -4,6 +4,8 @@
 
 ## Dans le terminal
 
+## Dans le terminal
+
 **Commande**
 
 ```bash
@@ -78,9 +80,14 @@ dmesg | grep 'ttyUSB'
 [  353.431623] usb 2-3: pl2303 converter now attached to ttyUSB0
 ```
 
+## Putty
 
+<<<<<<< HEAD:Configurer Port Série Putty sous Ubuntu 20.04.1 LTS.md
 
 ## Note
 
 Sous Putty : sélectionner Serial et dans le champ "Serial Line", renseigner 'ttyUSB0' et dans "Speed" renseigner la vitesse de votre switch
+=======
+Sélectionner Serial et dans le champ **Serial Line**, renseigner 'ttyUSB0' et dans **Speed** renseigner la vitesse de votre switch
+>>>>>>> e1b82ad7adc5e991779b399b3eaaa32c43b20480:UBUNTU_Port Série Putty.md
 
